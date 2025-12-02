@@ -98,3 +98,16 @@ Los demás requieren incluir un **Authorization Header**:
 ```
 Authorization: Bearer <token>
 ```
+
+--- 
+
+## Algunos ejemplos con Postman
+
+
+![candidates](imagenes/candidates.png)
+
+![voters](imagenes/voters.png)
+
+![votes](imagenes/votes.png)
+
+![estadisticas](imagenes/statistics.png)
