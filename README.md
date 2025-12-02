@@ -30,7 +30,7 @@ Asegúrate de tener instalado:
 ## 📁 Clonar el repositorio
 
 ```
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Kevinsqm/APIVotacionesNodeJS.git
 cd tu-repo
 ```
 
@@ -78,20 +78,6 @@ npm run dev
 El servidor iniciará en
 ```
 http://localhost:3000
-```
-
----
-
-## 📌 Compilar TypeScript
-```
-npm run build
-```
-
----
-
-## ▶️ Ejecutar en producción
-```
-npm start
 ```
 
 ---
