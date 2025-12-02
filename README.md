@@ -110,4 +110,6 @@ Authorization: Bearer <token>
 
 ![votes](imagenes/votes.png)
 
+Estadisticas:
+
 ![estadisticas](imagenes/statistics.png)
